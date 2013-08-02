@@ -1,2 +1,3 @@
 app/etc/modules/Quafzi_CustomerNote.xml app/etc/modules/Quafzi_CustomerNote.xml
 app/code/community/Quafzi/CustomerNote app/code/community/Quafzi/CustomerNote
+app/locale/de_DE/Quafzi_CustomerNote.csv app/locale/de_DE/Quafzi_CustomerNote.csv

@@ -31,4 +31,15 @@
             </customernote_setup>
         </resources>
     </global>
+    <adminhtml>
+        <translate>
+            <modules>
+                <Quafzi_CustomerNote>
+                    <files>
+                        <default>Quafzi_CustomerNote.csv</default>
+                    </files>
+                </Quafzi_CustomerNote>
+            </modules>
+        </translate>
+    </adminhtml>
 </config>
