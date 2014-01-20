@@ -1,0 +1,15 @@
+{
+    "name": "quafzi/customer-note",
+    "type": "magento-module",
+    "description": "Add notes to your customers",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Thomas Birke",
+            "email": "tbirke@netextreme.de"
+        }
+    ],
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
